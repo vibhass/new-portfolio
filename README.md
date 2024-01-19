@@ -1,2 +1,2 @@
-# Prathamesh-Gujjeti-Portfolio
-https://prathameshgujjeti.github.io/Prathamesh-Gujjeti-Portfolio
+# Vibhas-Pashine-Portfolio
+https://vibhass.github.io/new-portfolio/
